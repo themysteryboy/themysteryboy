@@ -2,10 +2,10 @@
 
 - 📫 How to reach me **heyruixuan@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themysteryboy" alt="themysteryboy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=themysteryboy&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themysteryboy&show_icons=true&locale=en&layout=compact" alt="themysteryboy" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themysteryboy&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themysteryboy&show_icons=true&locale=en" alt="themysteryboy" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themysteryboy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
